@@ -60,5 +60,3 @@ Count people entering and exiting using a virtual line.
 ## Basic Pipeline
 
 Camera → Frame Capture → Human Detection → Tracking → Line Crossing Logic → Entry/Exit Counter
-
-* Optimize performance for Raspberry Pi
