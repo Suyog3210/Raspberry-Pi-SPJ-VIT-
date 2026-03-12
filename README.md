@@ -61,10 +61,4 @@ Count people entering and exiting using a virtual line.
 
 Camera → Frame Capture → Human Detection → Tracking → Line Crossing Logic → Entry/Exit Counter
 
-## Future Work
-
 * Optimize performance for Raspberry Pi
-* Improve detection accuracy
-* Deploy with Raspberry Pi camera module
-
-SPJ
