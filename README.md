@@ -67,6 +67,4 @@ Camera → Frame Capture → Human Detection → Tracking → Line Crossing Logi
 * Improve detection accuracy
 * Deploy with Raspberry Pi camera module
 
-## Author
-
-SPJ – VIT Computer Vision Project
+SPJ
